@@ -13,5 +13,6 @@ public class HelloWorldWriter {
         for(People people : People.values()) {
             System.out.println("Hello BFI -2!");
         }
+        System.out.println("Bye!");
     }
 }
