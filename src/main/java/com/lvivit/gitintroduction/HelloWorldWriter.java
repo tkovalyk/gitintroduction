@@ -10,8 +10,8 @@ public class HelloWorldWriter {
 
     public HelloWorldWriter() {
         System.out.println("Hello World!");
-/*        for(People people : People.values()) {
-            System.out.println("Hello " + people + "!");
-        }*/
+        for(People people : People.values()) {
+            System.out.println("Hello BFI -2!");
+        }
     }
 }
